@@ -24,6 +24,6 @@ Atualmente estou construindo minha base em programação e desenvolvendo projeto
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| 🤖 **[IA Task Manager](https://github.com/netoRubens/ia-task-manager)** | Gestor de tarefas inteligente com integração de Inteligência Artificial para otimização de rotinas. | `JavaScript` `IA` `Tailwind` |
+| 🤖 **[IA Task Manager](https://github.com/netoRubens/ia-task-manager)** | Gestor de tarefas inteligente com integração de Inteligência Artificial para otimização de rotinas. | `JavaScript` `HTML5` `CSS3` `IA`  |
 | ⚡ **[ENERGIZAR](https://github.com/netoRubens/ENERGIZAR)** | Aplicação desenvolvida para gestão e automação de energia / processos. | `JavaScript` `HTML5` `CSS3` |
 
